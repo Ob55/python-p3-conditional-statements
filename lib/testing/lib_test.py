@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
-from control_flow import admin_login, hows_the_weather, fizzbuzz, calculator
-
 import io
 import sys
+from control_flow import admin_login, hows_the_weather, fizzbuzz, calculator
 
 class TestAdminLogin:
     '''admin_login() in control_flow.py'''
